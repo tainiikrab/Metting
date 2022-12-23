@@ -585,7 +585,9 @@ h1{
         transform: rotate(0deg);
     } */
 }
-
+/* #contain{
+    display:block;
+} */
 
 
 
@@ -787,8 +789,8 @@ h1{
     .arg{
         margin-bottom: 50px;
     }
-    #interf-img, #man-img{
-        max-width: 70vw;
+    #interf-img, #man-img, #circle-img{
+        width: 70vw;
     }
     #interf{
         max-width: 80vw;
